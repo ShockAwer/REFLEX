@@ -1,0 +1,1 @@
+REFLEXのスクリプトです。まだ作成途中のα版のため暫定公開です。<br>bbs.cgi、list.cgi、getlog_m.cgi、jcode.pl、loveyou.dat（空ファイル）は同じディレクトリに置きます。<br>counters,data,pref,logのディレクトリを777で作ってください。<br>prefとdataのディレクトリの中に、.htaccessを入れて下さい。<br>そしてlist.cgiの実行が確認できたら、リスト一覧と最新投稿一覧の設定をするためにlist.cgiでIDの所を空欄とreadで背景などの設定をすれば完了です。<br>
